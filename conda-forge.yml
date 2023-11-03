@@ -6,3 +6,6 @@ github:
   tooling_branch_name: main
 provider:
   linux_aarch64: default
+noarch_platforms:
+  - linux_64
+  - win_64
