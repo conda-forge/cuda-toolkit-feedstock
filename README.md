@@ -150,6 +150,3 @@ Feedstock Maintainers
 
 * [@adibbley](https://github.com/adibbley/)
 
-
-<!-- dummy commit to enable rerendering -->
-
