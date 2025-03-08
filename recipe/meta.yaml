@@ -1,4 +1,4 @@
-{% set version = "12.8.0" %}
+{% set version = "12.8.1" %}
 
 package:
   name: cuda-toolkit
@@ -19,7 +19,7 @@ requirements:
     - cuda-compiler {{ version }}
     - cuda-libraries {{ version }}
     - cuda-libraries-dev {{ version }}
-    - cuda-nvml-dev 12.8.55
+    - cuda-nvml-dev 12.8.90
     - cuda-tools {{ version }}
 
 test:
